@@ -16,7 +16,7 @@
 
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gelo9033&show_icons=true&theme=radical)
 
 
 
