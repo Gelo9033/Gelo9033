@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="Página-1" id="MoXLmMIz6m7iZf0kqbSj">
-    <mxGraphModel dx="1520" dy="876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="987" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,23 +9,68 @@
             <mxGeometry x="-86" y="-18" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-18" target="I-gZ1yYmanrS3FlFPK8c-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-4" target="I-gZ1yYmanrS3FlFPK8c-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object placeholders="1" c4Name="SISGEB" c4Type="Software System" c4Description="Sistema de uso y gestión de material bibliográfico por internet" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="I-gZ1yYmanrS3FlFPK8c-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-96" y="287" width="240" height="120" as="geometry" />
+            <mxGeometry x="-106" y="290" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="External system name" c4Type="Software System" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="I-gZ1yYmanrS3FlFPK8c-5">
+        <object placeholders="1" c4Name="E-Mail" c4Type="Software System" c4Description="Permite la notificación de reservación de material bibliográfico, alertas de gestión " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="I-gZ1yYmanrS3FlFPK8c-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="369" y="287" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Sistema de Gestión Principal" c4Type="Software System" c4Description="Se encuentra la información de roles y permisos para uso y gestión de material bibliográfico" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="I-gZ1yYmanrS3FlFPK8c-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-93" y="532" width="240" height="120" as="geometry" />
+            <mxGeometry x="-106" y="527" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="I-gZ1yYmanrS3FlFPK8c-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-5" target="I-gZ1yYmanrS3FlFPK8c-3">
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-20" target="I-gZ1yYmanrS3FlFPK8c-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-12" target="I-gZ1yYmanrS3FlFPK8c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="410" as="sourcePoint" />
+            <mxPoint x="15" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=12 12;endArrow=none;endFill=0;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-3" target="I-gZ1yYmanrS3FlFPK8c-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14" y="162" as="sourcePoint" />
+            <mxPoint x="14" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Verificar la reservación de material y gestión del mismo usando&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="192" width="156" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Gestiona el material bibliográfico y reservaciones&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-71.5" y="428" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=12 12;endArrow=none;endFill=0;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-4" target="I-gZ1yYmanrS3FlFPK8c-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134" y="349" as="sourcePoint" />
+            <mxPoint x="369" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Envía mails usando&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="197" y="335" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=12 12;endArrow=none;endFill=0;" edge="1" parent="1" source="I-gZ1yYmanrS3FlFPK8c-5" target="I-gZ1yYmanrS3FlFPK8c-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391" y="287" as="sourcePoint" />
+            <mxPoint x="114" y="117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-gZ1yYmanrS3FlFPK8c-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mails para&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="209" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
